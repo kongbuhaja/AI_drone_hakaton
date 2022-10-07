@@ -1,0 +1,3 @@
+AI_DRONE=drone controll(play)
+model_optimizer=pb->xml, bin	
+test2=yolo->pb
